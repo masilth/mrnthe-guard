@@ -1,0 +1,17 @@
+{
+  "OwnerID":"kendiidniz",
+  "Prefix":"botunuzunprefixi",
+  "Token":"botunuzuntokeni",
+  "guildID":"sunucuidniz",
+  "logChannelID":"loglarıngeleceğilogkanalid",
+  "channelProtection":true,
+  "roleProtection":true,
+  "botProtection":true,
+  "banProtection":true,
+  "kickProtection":true,
+  "serverProtection":true,
+  "rightClickProtection":true, 
+  "whitelist":["kendiidniz"],
+  "boosterRole":"boosterrolidniz",
+  "jailRole":"jailrolidniz"
+}

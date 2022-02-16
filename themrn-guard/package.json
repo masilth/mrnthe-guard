@@ -1,0 +1,15 @@
+{
+  "name": "stark",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "TheMRN",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "0.0.2"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "description": ""
+}
